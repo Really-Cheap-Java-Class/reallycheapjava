@@ -14,7 +14,7 @@ import java.util.Random;
 
 /**
  *
- * @author JAVA student
+ * @author JAVA mhall
  */
 public class JavaApplication22 {
 
